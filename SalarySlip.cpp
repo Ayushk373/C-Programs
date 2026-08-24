@@ -12,7 +12,7 @@ private:
     float DA, HRA, ITax, Net_Salary;
 
 public:
-    //Funtion to accept data
+
     void accept()
     {
         cout<<"\n Enter Staff ID: ";
@@ -26,7 +26,6 @@ public:
 
     }
 
-    //Function to calculate salary
     void calculate()
     {
         DA = basic_salary * 0.25;
@@ -35,7 +34,6 @@ public:
         Net_Salary= basic_salary + DA + HRA - ITax;
     }
     
-    //Function to Display payment slip
     void display()
     {
         cout<<"\n-----------------------------------------";
@@ -49,7 +47,7 @@ public:
         cout<<"\n-------------------------------------------";
     }
 
-    //Get Function for Sorting
+
     string getName()
     {
         return name;
@@ -63,10 +61,8 @@ int main()
     cout<<"Enter Number Of Staff Members:";
     cin>>n;
 
-    //Dynamic array 
     Staff* s = new Staff[n];
 
-    //Accept Data
     for (int i = 0; i < n; i++)
     {
         cout<<"\nEnter Details of Staff"<< i + 1 << endl;
@@ -86,7 +82,6 @@ int main()
         }
     }
 
-    //Display data
     cout<<"\n\n=============== STAFF PAYMENT SLIP ===============\n";
 
     for(int i=0; i < n; i++)
@@ -94,7 +89,6 @@ int main()
         s[i].display();
     }
 
-    //Free Memory
     delete[] s;
 
 
