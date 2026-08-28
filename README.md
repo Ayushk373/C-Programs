@@ -89,3 +89,23 @@ My collection of Data Structures & Algorithms implementations and problem-solvin
 **Topics:** Arrays • Linked Lists • Stack • Queue • Trees • Graphs • DP
 
 [🔗 View Repository](YOUR_REPOSITORY_LINK)
+
+## 📚 Currently Learning
+
+```text
+C++
+ ├── OOP
+ ├── STL
+ ├── Data Structures
+ └── Algorithms
+
+Python
+ ├── Fundamentals
+ ├── OOP
+ ├── File Handling
+ └── Data Analysis
+
+Development
+ ├── Git & GitHub
+ ├── Linux
+ └── Problem Solving
