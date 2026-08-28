@@ -12,3 +12,14 @@ Engineering Student | C++ & Python Developer | DSA Enthusiast
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+
+## 👨‍💻 About Me
+
+- 🎓 Engineering student passionate about technology and software development
+- 💻 Currently learning **Data Structures & Algorithms with C++**
+- 🐍 Exploring **Python** and problem solving
+- 🚀 Interested in building real-world projects
+- 📚 Improving my programming skills every day
+- 🎯 Goal: Become a strong software developer
+- ⚡ Fun fact: I believe consistency beats talent
