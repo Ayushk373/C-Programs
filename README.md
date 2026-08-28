@@ -1,129 +1,135 @@
-ee# C++-Programs
 <h1 align="center">Hi 👋, I'm Ayush Khude</h1>
 
 <h3 align="center">
-Engineering Student | C++ & Python Developer | DSA Enthusiast
+Engineering Student | C++ Developer | DSA Learner
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Learning+DSA+with+C%2B%2B;Building+real-world+projects;Exploring+Software+Development;Turning+ideas+into+code+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Learning+DSA+with+C%2B%2B;Building+Real-World+Projects;Exploring+Software+Development;One+Commit+at+a+Time+%F0%9F%9A%80" />
 </p>
 
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,c,html,git,latex" />
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
+---
 
 ## 👨‍💻 About Me
 
-- 🎓 Engineering student passionate about technology and software development
-- 💻 Currently learning **Data Structures & Algorithms with C++**
-- 🐍 Exploring **Python** and problem solving
-- 🚀 Interested in building real-world projects
-- 📚 Improving my programming skills every day
-- 🎯 Goal: Become a strong software developer
-- ⚡ Fun fact: I believe consistency beats talent
+- 🎓 Engineering student
+- 💻 Learning C++ and Data Structures & Algorithms
+- 🐍 Exploring Python
+- 🚀 Interested in software development
+- 🧠 Passionate about problem solving
+- 🎯 Building projects and improving every day
 
-## 📊 GitHub Statistics
+---
+
+## 🛠️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- C++ & STL
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Python
+- Git & GitHub
+- Software Development
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Technology |
+|---|---|---|
+| 🎓 Student Management System | Student record management | C++ |
+| 🧠 DSA Practice | DSA implementations & problems | C++ |
+| 📊 Data Analysis | Data analysis & visualization | Python |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+---
+
+## 📈 Most Used Languages
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true"/>
+
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- [ ] Master C++
+- [ ] Complete DSA fundamentals
+- [ ] Solve 300+ problems
+- [ ] Build 5+ projects
+- [ ] Contribute to Open Source
+- [ ] Learn Web Development
+- [ ] Participate in coding competitions
+
+---
 
 ## 🔥 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 
 </p>
-
-## 🐍 My Contributions
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-
-</p>
-
-## 🚀 Featured Projects
-
-### 🎓 Student Management System
-A C++ based system for managing student information.
-
-**Tech:** C++ • OOP • File Handling
-
-[🔗 View Project](YOUR_REPOSITORY_LINK)
 
 ---
 
-### 🧠 DSA Journey
+## 🐍 Contribution Snake
 
-My collection of Data Structures & Algorithms implementations and problem-solving practice.
+<p align="center">
 
-**Topics:** Arrays • Linked Lists • Stack • Queue • Trees • Graphs • DP
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
 
-[🔗 View Repository](YOUR_REPOSITORY_LINK)
+</p>
 
-## 📚 Currently Learning
+---
 
-```text
-C++
- ├── OOP
- ├── STL
- ├── Data Structures
- └── Algorithms
+## 📫 Connect With Me
 
-Python
- ├── Fundamentals
- ├── OOP
- ├── File Handling
- └── Data Analysis
+<p align="center">
 
-Development
- ├── Git & GitHub
- ├── Linux
- └── Problem Solving
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
+<a href="YOUR_GITHUB">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
 
-## 📈 My Developer Journey
+</p>
 
-```text
-2025
-│
-├── Started Programming
-│
-2026
-│
-├── C++ Fundamentals       ████████░░ 80%
-├── OOP                    ███████░░░ 70%
-├── DSA                    █████░░░░░ 50%
-├── Python                 ██████░░░░ 60%
-├── Git & GitHub            ████░░░░░░ 40%
-│
-└── 🚀 Building Projects
+---
+
+<p align="center">
+⭐ From <b>Ayush Khude</b> | Building. Learning. Improving.
+</p>
