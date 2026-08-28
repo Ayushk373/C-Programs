@@ -1,4 +1,4 @@
-# C++-Programs
+ee# C++-Programs
 <h1 align="center">Hi 👋, I'm Ayush Khude</h1>
 
 <h3 align="center">
@@ -52,5 +52,13 @@ Engineering Student | C++ & Python Developer | DSA Enthusiast
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+## 🔥 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
 
 </p>
