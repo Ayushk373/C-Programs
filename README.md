@@ -70,3 +70,22 @@ Engineering Student | C++ & Python Developer | DSA Enthusiast
 <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
 
 </p>
+
+## 🚀 Featured Projects
+
+### 🎓 Student Management System
+A C++ based system for managing student information.
+
+**Tech:** C++ • OOP • File Handling
+
+[🔗 View Project](YOUR_REPOSITORY_LINK)
+
+---
+
+### 🧠 DSA Journey
+
+My collection of Data Structures & Algorithms implementations and problem-solving practice.
+
+**Topics:** Arrays • Linked Lists • Stack • Queue • Trees • Graphs • DP
+
+[🔗 View Repository](YOUR_REPOSITORY_LINK)
