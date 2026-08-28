@@ -37,3 +37,13 @@ Engineering Student | C++ & Python Developer | DSA Enthusiast
 - 📚 Improving my programming skills every day
 - 🎯 Goal: Become a strong software developer
 - ⚡ Fun fact: I believe consistency beats talent
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</p>
