@@ -14,7 +14,7 @@ Engineering Student | C++ & Python Developer | DSA Enthusiast
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,c,html,git,GitHub,latex" />
+<img src="https://skillicons.dev/icons?i=cpp,python,c,html,git,latex" />
 </p>
 
 ### Tools & Technologies
