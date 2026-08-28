@@ -109,3 +109,21 @@ Development
  ├── Git & GitHub
  ├── Linux
  └── Problem Solving
+
+
+## 📈 My Developer Journey
+
+```text
+2025
+│
+├── Started Programming
+│
+2026
+│
+├── C++ Fundamentals       ████████░░ 80%
+├── OOP                    ███████░░░ 70%
+├── DSA                    █████░░░░░ 50%
+├── Python                 ██████░░░░ 60%
+├── Git & GitHub            ████░░░░░░ 40%
+│
+└── 🚀 Building Projects
